@@ -61,7 +61,7 @@ On Fedora-based distributions (e.g., Fedora/RHEL/CentOS/Scientific Linux):
 
     cp ./etc/savanna/savanna.conf.sample ./etc/savanna/savanna.conf
 
-5. Look through the savanna.conf and change parameters which default values do not suite you.
+5. Look through the savanna.conf and change parameters which default values do not suit you.
 Set ``os_auth_host`` to the address of your VM with DevStack.
 
 .. note::
